@@ -1,4 +1,6 @@
---- title: my new digital garden ---
+--- 
+title: my new digital garden 
+---
 
 Welcome to my garden!
 
