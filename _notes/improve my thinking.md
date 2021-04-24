@@ -1,4 +1,4 @@
---- 
+---
 title: improve my thinking 
 ---
 

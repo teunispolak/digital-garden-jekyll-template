@@ -3,6 +3,10 @@ title: Your first seed
 ---
 
 ### Welcome!
+First, let's see if we're getting things uploaded. If yes, this should lead to [[my new digital garden]]
+
+If not, well, then we'll have to do some troubleshooting.
+
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
